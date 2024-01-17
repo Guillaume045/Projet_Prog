@@ -10,12 +10,20 @@
 Ce clavier comprend 16 touches disposées en 4 lignes et 4 colonnes.
 L'appui sur une touche fait communiquer une ligne avec une colonne.
 
-![Image_03](./image/Image_03.png)
-
 ## Schéma de cablage & Code
+
+### Arduino
 
 Voici un câble es son code qui correspond.
 
 ![Image_01](./image/Image_01.png)
 
 [Code Arduino](./code.ino)
+
+### Esp32
+
+Voici un câble es son code qui correspond.
+
+![Image_03](./image/Image_03.png)
+
+[Code Esp32](./code.py)
